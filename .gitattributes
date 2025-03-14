@@ -1,2 +1,4 @@
+airbnb.db filter=lfs diff=lfs merge=lfs -text
+reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 data/Datos_Madrid_2024/airbnb.db filter=lfs diff=lfs merge=lfs -text
 data/Datos_Madrid_2024/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
