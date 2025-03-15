@@ -15,7 +15,6 @@ Puedes ver el resultado final del análisis en el notebook *06_Comunicación de 
 - **Python**: Lenguaje de programación utilizado para el análisis de datos.
 - **Pandas**: Biblioteca utilizada para manipulación y análisis de datos.
 - **Matplotlib & Seaborn**: Bibliotecas para visualización de datos.
-- **Scikit-learn**: Biblioteca utilizada para la creación de modelos de machine learning.
 - **Folium**: Biblioteca utilizada para crear mapas interactivos.
 - **Jupyter Notebook**: Entorno utilizado para desarrollar y documentar el análisis.
 
@@ -52,7 +51,7 @@ Puedes ver el resultado final del análisis en el notebook *06_Comunicación de 
 
 * Se han localizado **8 barrios** de interés, de los cuales 4 están en el distrito de **Ciudad Lineal**
 * Los inmuebles de **2 habitaciones** presentan la mejor relación compra-alquiler
-* Los inmuebles con **2 camas** presentan la mejor relación la mejor relación compra-alquiler
+* Los inmuebles con **2 camas** presentan la mejor relación compra-alquiler
 * Se recomienda buscar inmuebles que permitan alojar hasta **3 huéspedes**
 * Se recomienda buscar inmuebles que estando en uno de los barrios identificados no estén necesariamente cerca de puntos de interés
 * Se han localizado los mejores inmuebles para invertir en Ciudad Lineal
