@@ -2,7 +2,7 @@
 
 ##  Descripción
 
-En este análisis, se han utilizado técnicas de **Business Analytics** y **Data Science** para examinar diferentes variables relacionadas con los precios de alquileres turísticos en diversas localizaciones. A través de la exploración de datos, limpieza, visualización, y modelización, se han generado conclusiones clave que pueden ayudar a entender mejor los factores que afectan a la fijación de precios en el sector inmobiliario de alquiler turístico.
+En este análisis, se han utilizado técnicas de **Business Analytics** para examinar diferentes variables relacionadas con los precios de alquileres turísticos en diversas localizaciones. A través de la exploración de datos, limpieza y visualización, se han generado conclusiones clave que pueden ayudar a entender mejor los factores que afectan a la fijación de precios en el sector inmobiliario de alquiler turístico.
 
 Puedes ver el resultado final del análisis en el notebook *06_Comunicación de resultados.ipynb*
 
